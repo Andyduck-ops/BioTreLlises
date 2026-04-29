@@ -1,0 +1,10 @@
+{"file": ".trellis/spec/backend/quality-guidelines.md", "reason": "Code quality standards, forbidden patterns, testing requirements"}
+{"file": ".trellis/spec/backend/error-handling.md", "reason": "Verify error handling follows spec: connector errors retry, tool errors throw, reasoning partial failure"}
+{"file": ".trellis/spec/backend/logging-guidelines.md", "reason": "Verify events are emitted correctly, no console.log in production paths"}
+{"file": ".trellis/spec/frontend/quality-guidelines.md", "reason": "TUI quality: visual consistency, terminal compatibility, no hardcoded ANSI"}
+{"file": ".trellis/spec/frontend/type-safety.md", "reason": "Verify no any types, no type assertions, TypeBox schemas match implementation"}
+{"file": ".trellis/spec/guides/cross-layer-thinking-guide.md", "reason": "Verify cross-layer contracts: tools → connectors → cache boundaries respected"}
+{"file": ".trellis/spec/guides/code-reuse-thinking-guide.md", "reason": "Verify no duplicate code, no reinvented wheels"}
+{"file": ".trellis/spec/guides/bio-agent-design-thinking.md", "reason": "Verify design choices exploit agent attention bandwidth, no chat-wrappers, multi-step reasoning preserved"}
+{"file": ".trellis/tasks/04-27-bio-brainstorm/prd.md", "reason": "Verify implementation matches requirements and acceptance criteria"}
+{"file": ".trellis/tasks/04-27-bio-brainstorm/info.md", "reason": "Verify implementation matches technical design: architecture layers, component contracts"}

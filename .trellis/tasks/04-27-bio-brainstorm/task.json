@@ -1,0 +1,33 @@
+{
+  "id": "bio-brainstorm",
+  "name": "bio-brainstorm",
+  "title": "brainstorm: 生物/合成生物领域 AI Agent 应用方向探索",
+  "description": "",
+  "status": "completed",
+  "dev_type": null,
+  "scope": null,
+  "package": null,
+  "priority": "P2",
+  "creator": "sikjmyhre",
+  "assignee": "sikjmyhre",
+  "createdAt": "2026-04-27",
+  "completedAt": "2026-04-29",
+  "branch": null,
+  "base_branch": "main",
+  "worktree_path": null,
+  "commit": null,
+  "pr_url": null,
+  "subtasks": [],
+  "children": [
+    "04-27-pr1-skeleton",
+    "04-27-pr2-connectors",
+    "04-27-pr3-tools",
+    "04-27-pr4-reasoning",
+    "04-27-pr5-tui",
+    "04-27-pr6-integration"
+  ],
+  "parent": null,
+  "relatedFiles": [],
+  "notes": "All 6 PRs completed. Final evaluation: 7.5/10.",
+  "meta": {}
+}
