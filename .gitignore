@@ -2,3 +2,5 @@ node_modules/
 .qoder/
 .snow/
 .agents/
+.claude/
+.trellis/
